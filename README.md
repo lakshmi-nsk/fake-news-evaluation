@@ -140,6 +140,13 @@ Below are the confusion matrices and result plots corresponding to the models ev
 - **AdaBoost (Decision Tree Base, Word2Vec)**  
   ![AdaBoost DT Word2Vec](./results/adaboost_dt_word2vec.png)
 
+### Video Demonstration
+
+You can watch a walkthrough of the project:
+
+[![Fake News Detection and Evaluation Video](./video/Fake News Detection and Evaluation with Confusion Matrix.mp4)](./video/Fake News Detection and Evaluation with Confusion Matrix.mp4)
+
+> Click the video to play the demonstration directly from the repository.
 
 ## Contributions
 
