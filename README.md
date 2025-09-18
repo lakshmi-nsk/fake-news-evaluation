@@ -142,9 +142,8 @@ Below are the confusion matrices and result plots corresponding to the models ev
 
 ### Video Demonstration
 
-You can watch a walkthrough of the project:
-
-[![Fake News Detection and Evaluation Video](./video/Fake News Detection and Evaluation with Confusion Matrix.mp4)](./video/Fake News Detection and Evaluation with Confusion Matrix.mp4)
+Watch the project walkthrough video here:  
+[Fake News Detection and Evaluation with Confusion Matrix](./video/Fake%20News%20Detection%20and%20Evaluation%20with%20Confusion%20Matrix.mp4)
 
 > Click the video to play the demonstration directly from the repository.
 
